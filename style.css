@@ -1,0 +1,31 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBBuUsiqnP5OUlCUyrFXIhuquhNRexzxKS5Uri6vhyFiyy1XS0g);
+  background-size: cover;
+
+
+}
+
+.jumbotron{
+  background-color:rgba(0, 0, 0, 0.0);
+  color: black;
+}
+
+img {
+  position: absolute;
+  opacity: .9;
+
+}
+
+p{
+ font-size: 40px;
+ color: black;
+ left: 30px;
+}
+
+.text_over_image{
+  position: absolute;
+  text-align: center;
+  left: 270px;
+  top: 150px;
+
+}

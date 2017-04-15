@@ -1,0 +1,10 @@
+body{
+  background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS1a-teKwcQBR1hH8Qz6HMbjCaP8YO51uU41A5LwqrWvrpkmjPxw);
+  background-size: cover;
+}
+
+p{
+  text-align: center;
+  font-size: 200px;
+  color: #00FFFF;
+}
